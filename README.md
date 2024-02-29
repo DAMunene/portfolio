@@ -1,6 +1,6 @@
 # Data Scientist
 
-###Skills
+### Skills
 SOFT SKILLS
 ●Sales Skills: Proficiency in sales techniques to generate leads, negotiate contracts, and close deals with potential clients, such as insurance companies, corporate clients, or healthcare providers
 ●Relationship Building: Strong interpersonal skills to cultivate and maintain relationships with key stakeholders, including healthcare professionals, referral sources, and potential clients.
@@ -17,7 +17,7 @@ TECHNICAL SKILLS
 ●Power BI – analyzing and visualizing data from a variety of sources
 
 
-###Education
+### Education
 University of Eldoret                                                                   August 2018 – November 2022
 Bachelor of Science in Applied Statistics with Computing.
 Award: Second Class Honors (Upper Division)    
