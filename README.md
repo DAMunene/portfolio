@@ -1,30 +1,30 @@
 # Data Scientist
 
 ### Skills
-SOFT SKILLS
-●Sales Skills: Proficiency in sales techniques to generate leads, negotiate contracts, and close deals with potential clients, such as insurance companies, corporate clients, or healthcare providers
-●Relationship Building: Strong interpersonal skills to cultivate and maintain relationships with key stakeholders, including healthcare professionals, referral sources, and potential clients.
-●Market Research: Capability to conduct market research and analysis to identify market trends, competitive threats, and opportunities for growth.
-●Strategic Planning: Experience in developing and executing strategic plans to achieve business development goals, including market expansion, revenue growth, and client acquisition.
-●Communication Skills: Effective verbal and written communication skills to articulate the facility's value proposition, present proposals, and engage with clients and partners.
+#### SOFT SKILLS
+##### ●Sales Skills: Proficiency in sales techniques to generate leads, negotiate contracts, and close deals with potential clients, such as insurance companies, corporate clients, or healthcare providers
+##### ●Relationship Building: Strong interpersonal skills to cultivate and maintain relationships with key stakeholders, including healthcare professionals, referral sources, and potential clients.
+##### ●Market Research: Capability to conduct market research and analysis to identify market trends, competitive threats, and opportunities for growth.
+##### ●Strategic Planning: Experience in developing and executing strategic plans to achieve business development goals, including market expansion, revenue growth, and client acquisition.
+##### ●Communication Skills: Effective verbal and written communication skills to articulate the facility's value proposition, present proposals, and engage with clients and partners.
 
-TECHNICAL SKILLS
-●POS - skilled user of fixed terminal and mobile tablet POS devices including carrying out cash reconciliation and banking. 
-●ODK and Google forms - experience with electronic data collection tools.
-●Python-  for data analysis due to its flexibility, ease of use and extensive libraries.
-● Excel – creating pivot tables and performing data analysis tasks.
- ●SQL—managing and manipulating data in a relational database
-●Power BI – analyzing and visualizing data from a variety of sources
+#### TECHNICAL SKILLS
+##### ●POS - skilled user of fixed terminal and mobile tablet POS devices including carrying out cash reconciliation and banking. 
+##### ●ODK and Google forms - experience with electronic data collection tools.
+##### ●Python-  for data science due to its flexibility, ease of use and extensive libraries.
+##### ● Excel – creating pivot tables and performing data analysis tasks.
+##### ●SQL—managing and manipulating data in a relational database
+##### ●Power BI – analyzing and visualizing data from a variety of sources
 
 
 ### Education
-University of Eldoret                                                                   August 2018 – November 2022
-Bachelor of Science in Applied Statistics with Computing.
-Award: Second Class Honors (Upper Division)    
+#### University of Eldoret                                                                   #### August 2018 – November 2022
+##### Bachelor of Science in Applied Statistics with Computing.
+##### Award: Second Class Honors (Upper Division)    
 
-Nyangwa Boys School                                                                 January 2014 – November 2017
-Highschool diploma.
-Grade: B-
+#### Nyangwa Boys School                                                                 #### January 2014 – November 2017
+##### Highschool diploma.
+##### Grade: B-
 
 
 ### Work Experience
